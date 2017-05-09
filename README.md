@@ -1,5 +1,7 @@
 AudioSprite.js
 ==============
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/developit/AudioSprite.js.svg)](https://greenkeeper.io/)
 Seamlessly play named "sprite" regions within a single shared audio file.  
 
 How To Use It
